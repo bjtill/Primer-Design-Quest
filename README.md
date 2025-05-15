@@ -72,4 +72,10 @@ This mode aims to facilitate the design of primers from a list of candidate gene
 
 Name, LeftPrimer, LeftPrimer_Tm, RightPrimer, RightPrimer_Tm, Product_Size, InputSequence, AmpliconSequence, Number_BlastHits_Input_Pident, Number_BlastHits_Amplicon_Pident, Chrom, InputStart, InputEnd, GeneModelInfo 
 
-GeneModelInfo is taken from the GTF file (for example, exon_number_2). REFERENCES: 1. Untergasser A, Cutcutache I, Koressaar T, Ye J, Faircloth BC, Remm M, Rozen SG. Primer3--new capabilities and interfaces. Nucleic Acids Res. 2012 Aug;40(15):e115. 2. Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search tool. J Mol Biol. 1990 Oct 5;215(3):403–10.
+GeneModelInfo is taken from the GTF file (for example, exon_number_2). 
+
+**REFERENCES:** 
+
+1. Untergasser A, Cutcutache I, Koressaar T, Ye J, Faircloth BC, Remm M, Rozen SG. Primer3--new capabilities and interfaces. Nucleic Acids Res. 2012 Aug;40(15):e115.
+  
+2. Altschul SF, Gish W, Miller W, Myers EW, Lipman DJ. Basic local alignment search tool. J Mol Biol. 1990 Oct 5;215(3):403–10.
